@@ -19,8 +19,8 @@ The **Crypto Investment Dashboard** is an interactive **R Shiny app** that allow
 - Explore graphs and metrics showing trends, risks, and maturity timelines.
 
 **Supported Cryptocurrencies:**
-Bitcoin, Ethereum, Solana, XRP, Cardano for now , but will add more later
-The dashboard is fully interactive, with:
+Bitcoin, Ethereum, Solana, XRP, Cardano for now , but will add more later the AIP i used to pull the data "CoinGecko" could only allow 5 cryptocurr
+ency data to be pulled . The dashboard is fully interactive, with:
 - Filters
 - Dynamic plots
 
