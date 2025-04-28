@@ -1,12 +1,10 @@
-# Crypto_investment_calculator
-An interactive R Shiny dashboard designed to model and visualize cryptocurrency investment returns. Developed as a practical project by a third-year Data Science student, integrating financial analysis, dynamic data visualization, and real-world application of statistical techniques.
 
-# Crypto Investment Dashboard
-
+# Crypto Investment calculator Dashboard
+An interactive R Shiny dashboard designed to model and visualize cryptocurrency investment returns. Developed as a practical project by a third year Data Science student, integrating financial analysis, dynamic data visualization, and real world application of statistical techniques.
 
 ## 🎓 About Me
 
-Hi! I'm **Michelle**, a 3rd-year Data Science student passionate about building real-world projects. This dashboard project is very close to my heart — I built it for my husband to help him track and visualize potential returns from his favorite cryptocurrencies.
+Hi! I'm **Michelle**, a 3rd year Data Science student passionate about building real world projects. This dashboard project is very close to my heart  I built it for my husband to help him track and visualize potential returns from his favorite cryptocurrencies.
 
 This project combines love, data, and technology ✨.
 
